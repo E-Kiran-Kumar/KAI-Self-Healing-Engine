@@ -69,7 +69,11 @@ npm run dev
 
 ---
 
-## 10-Phase Learning Roadmap
+## Learning Progress — Completed Through Phase 3
+
+**Current learning status:** Phases 1, 2, and 3 are completed. Phase 4 onward has not yet been completed as part of this learning roadmap. The checkboxes below reflect this status; unchecked phases are planned work, not completed work.
+
+### 10-Phase Roadmap
 
 - [x] **Phase 1: Frontend Architecture** — Next.js 16, TypeScript, Tailwind CSS, Lucide icons, Recharts, typed mock storage adapter.
 - [x] **Phase 2: Backend Development** — FastAPI, Pydantic v2, service layer, in-memory data store, 42 automated tests.
